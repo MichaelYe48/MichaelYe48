@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
+<br>  
+
 I am a 3rd year at **UC San Diego** pursuing a B.S. in Computer Science. I have worked over the past three summers to gain valuable experience working with a team and with customers. Currently, I am seeking internship opportunities that will enable me to further expand my industry expertise and knowledge.
