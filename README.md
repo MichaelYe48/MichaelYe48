@@ -42,7 +42,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tech I use</h2></summary>
+    <summary><h2 style="display: inline-block">My Tech 🤖</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -57,7 +57,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me On LinkedIn ⬆️</h2></summary>
   </ul>
 </div>
 
