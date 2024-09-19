@@ -2,7 +2,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working as a Software Engineering Intern at the **San Diego Supercomputer Center**
+- 🏢 I’m currently working as a Software Engineering Intern at the **San Diego Supercomputer Center**
 
 - 🌱 I’m currently pursuing a B.S. in Computer Science and a Minor in Mathematics at **UC San Diego**
 
