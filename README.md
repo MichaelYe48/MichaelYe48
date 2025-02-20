@@ -2,11 +2,9 @@
 
 
 <!--Intro start-->
-- 🏢 I’m currently working as a Software Engineering Intern at the **San Diego Supercomputer Center**
+- 🏢 I’m an incoming SDE Intern at the **Amazon**
 
-- 🌱 I’m currently pursuing an M.S. in Computer Science and a Minor in Mathematics at **UC San Diego**
-
-- 💬 Ask me about **Artificial Intelligence in Healthcare Administration**
+- 🌱 I’m currently pursuing an M.S. in Computer Science at **UC San Diego**
 
 - 📫 michaelye48@gmail.com
 
